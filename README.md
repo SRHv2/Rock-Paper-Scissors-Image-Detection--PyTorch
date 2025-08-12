@@ -1,4 +1,4 @@
-This is an internship project, in which I trained a model for detection of diffferent hand gestures in the gamae "Rock Paper Scissors"
+This is an ODLC project, in which I trained a model for detection of diffferent hand gestures in the gamae "Rock Paper Scissors"
 
 Stack: Python(Programming Language), PyTorch(Developing the Model) and MatPlotLib(Graphing Data).
 
